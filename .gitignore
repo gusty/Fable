@@ -25,7 +25,8 @@ src/fable-library/BigInt/*.js
 [Dd]ebug/
 [Rr]elease/
 x64/
-build/
+build/*
+!build/fable-library/
 [Bb]in/
 [Oo]bj/
 
